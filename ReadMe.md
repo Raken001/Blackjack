@@ -33,5 +33,4 @@ This Python script simulates a simplified version of the Blackjack card game. Th
 - **Game Results**:
   - After both the player and dealer have finished drawing, the hand values are compared to determine the winner.
 
-## Example of Game Output
 
